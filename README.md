@@ -6,7 +6,7 @@
 I got passionate about coding somewhere in the middle of college years and started creating projects and solving questions on @Hackerrank just for fun. 
 
 - 🔭 I’m currently working on my Portfolio website 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Kotlin and AWS 
 - ⚡ Fun fact: I like peanut butter. 
 
 
